@@ -10,3 +10,7 @@ These problem statements have been solved in following programming language:
 3. Python
 
 **_Note :_** You are welcome to add and modify in the repository as well.
+
+
+### Problem Headings
+1. Pair sum in a array which is equal to given number
