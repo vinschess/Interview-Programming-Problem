@@ -1,10 +1,10 @@
-## Interview Programming Problem
+## Interview Programming Problems
 
 This repository contains all programming problems those haven been asked during interview from various top tech companies.
 
 In this, I provide a problem statement along with companies name in which the problem has been asked and a test_cases.txt file which contains some test cases. I will add new test cases time to time.
 
-These problem statements have been solved in following programming language:
+These problem statements have been solved in following programming languages:
 1. Python
 2. Go
 3. Python
@@ -14,4 +14,4 @@ These problem statements have been solved in following programming language:
 
 ### Problem Headings
 1. Pair sum in a array which is equal to given number.
-2. Custom square root function Newton–Raphson method.
+2. Custom square root function using Newton–Raphson method.
