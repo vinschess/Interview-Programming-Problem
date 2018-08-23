@@ -13,4 +13,5 @@ These problem statements have been solved in following programming language:
 
 
 ### Problem Headings
-1. Pair sum in a array which is equal to given number
+1. Pair sum in a array which is equal to given number.
+2. Custom square root function Newton–Raphson method.

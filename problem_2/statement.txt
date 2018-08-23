@@ -1,0 +1,3 @@
+Implement a custom square root function using Newton's method (also known as the Newton–Raphson method).
+
+Note: Answer should be round to 2 decimal points.
