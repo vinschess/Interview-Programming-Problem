@@ -15,3 +15,4 @@ These problem statements have been solved in following programming languages:
 ### Problem Headings
 1. Pair sum in a array which is equal to given number.
 2. Custom square root function using Newton–Raphson method.
+3. Product of array without i. **Don't use division operator**
