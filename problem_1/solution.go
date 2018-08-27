@@ -69,7 +69,7 @@ func main() {
 		}
 		k, k_err := strconv.Atoi(content[1])
 		if k_err != nil {
-			fmt.Println(err)
+			fmt.Println(k_err)
 		}
 
 		pair_vals := getPairs(arr, k)
