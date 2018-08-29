@@ -17,3 +17,4 @@ These problem statements have been solved in following programming languages:
 2. Custom square root function using Newton–Raphson method.
 3. Product of array without i **(Don't use division operator)**.
 4. Missing smallest positive integer.
+5. Number of ways an encoded digits can be decoded.
