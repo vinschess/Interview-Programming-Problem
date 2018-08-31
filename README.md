@@ -7,7 +7,7 @@ In this, I provide a problem statement along with companies name in which the pr
 These problem statements have been solved in following programming languages:
 1. Python
 2. Go
-3. Python
+3. Java
 
 **_Note :_** You are welcome to add and modify in the repository as well. Also if you have any problem statement and that you want to solve in any of the above programming language please let me know as well. I would love to solve those problems.
 
