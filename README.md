@@ -19,3 +19,4 @@ These problem statements have been solved in following programming languages:
 4. Missing smallest positive integer.
 5. Number of ways an encoded digits can be decoded.
 6. Largest sum of non-adjacent numbers.
+7. Unique ways to climb the staircase.
