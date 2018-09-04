@@ -20,3 +20,4 @@ These problem statements have been solved in following programming languages:
 5. Number of ways an encoded digits can be decoded.
 6. Largest sum of non-adjacent numbers.
 7. Unique ways to climb the staircase.
+8. Longest substring with k distinct characters.

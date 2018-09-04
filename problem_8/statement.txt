@@ -1,0 +1,11 @@
+[Amazon]
+
+Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters.
+
+For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
+
+
+Note: In test_cases.txt file,
+  1st param: string value
+  2nd param: k (total unique characters)
+  3rd param: answer
